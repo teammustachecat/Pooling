@@ -1,0 +1,5 @@
+/Users/cmaher/projects/mustache-cat/Core/Pooling/ObjectPool/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/cmaher/projects/mustache-cat/Core/Pooling/ObjectPool/bin/Release/ObjectPool.dll.mdb
+/Users/cmaher/projects/mustache-cat/Core/Pooling/ObjectPool/bin/Release/ObjectPool.dll
+/Users/cmaher/projects/mustache-cat/Core/Pooling/ObjectPool/obj/Release/ObjectPool.dll
+/Users/cmaher/projects/mustache-cat/Core/Pooling/ObjectPool/obj/Release/ObjectPool.dll.mdb
